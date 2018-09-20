@@ -100,6 +100,7 @@ go get github.com/micahhausler/k8s-oidc-helper
 ```
 Usage of k8s-oidc-helper:
       --client-id string       The ClientID for the application
+      --api-version string     The Google API version to use (default v3)
       --client-secret string   The ClientSecret for the application
   -c, --config string          Path to a json file containing your application's ClientID and ClientSecret. Supercedes the --client-id and --client-secret flags.
       --file ~/.kube/config    The file to write to. If not specified, ~/.kube/config is used
