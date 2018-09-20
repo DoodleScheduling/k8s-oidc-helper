@@ -3,7 +3,7 @@
 
 # k8s-oidc-helper
 
-> Note that this "fork of a fork" is meant to be an internal tool for Doodle Engineers to maintain. The original module seems to be unmainted, so we will keep this version up-to-date according to our internal needs. 
+> Note that this "fork of a fork" is meant to be an internal tool for Doodle Engineers to maintain. The original module seems to be unmaintained, so we will keep this version up-to-date according to our internal needs. 
 
 This is a small helper tool to get a user get authenticated with
 [Kubernetes OIDC](http://kubernetes.io/docs/admin/authentication/) using Google
